@@ -9,6 +9,9 @@
 #### **代码仓库说明**
 
 patternanalysis.py
+
 .ipynb
+
 report.pdf 报告pdf
+
 requirements.txt 程序运行需求
